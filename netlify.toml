@@ -4,5 +4,5 @@ to = "/tabla_productos.html"
 status = 200
 
 [build]
-  command = "yarn build"
+  command = "npm run build"
   publish = "build"
