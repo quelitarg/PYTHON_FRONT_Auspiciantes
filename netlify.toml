@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "/tabla_productos.html"
+to = "/index.html"
 status = 200
 
 [build]
